@@ -8,13 +8,14 @@ This plugin was developped from <https://github.com/elastic/kibana/pull/4832>.
 
 # Install
 
-```
 From the Kibana root directory, install the plugin with the following command:
+```
 bin/kibana plugin --install kbn_sankey_vis -u https://github.com/ucalgary/kbn_sankey_vis/archive/master.zip
 ```
 
 # Uninstall
 
+From the Kibana root directory, uninstall the plugin with the following command:
 ```
 bin/kibana plugin  --remove kbn_sankey_vis
 ```
